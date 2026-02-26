@@ -3,15 +3,15 @@ import { Award } from "lucide-react";
 
 const certifications = [
   {
+    name: "Build Reliable Agentic AI Applications",
+    issuer: "Simplilearn",
+    date: "Feb 2026",
+  },
+  {
     name: "AI Essentials",
     issuer: "Google",
     date: "Jul 2025",
   },
-  // {
-  //   name: "IoT Systems Development & Applications",
-  //   issuer: "NAVTTC",
-  //   date: "Dec 2021",
-  // },
   {
     name: "Critical Thinking & Problem Solving",
     issuer: "LinkedIn",
@@ -21,6 +21,11 @@ const certifications = [
     name: "Web Engineering",
     issuer: "NAVTTC",
     date: "Jan 2023",
+  },
+  {
+    name: "IoT Systems Development & Applications",
+    issuer: "NAVTTC",
+    date: "Dec 2021",
   },
   {
     name: "Front End Libraries",

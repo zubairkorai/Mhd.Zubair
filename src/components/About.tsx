@@ -34,7 +34,7 @@ const About = () => {
           <div className="grid grid-cols-2 gap-4 pt-4">
             {[
               { label: "Location", value: "Available Worldwide" },
-              { label: "Experience", value: "Full-Stack Dev" },
+              { label: "Experience", value: "3 YOE" },
               { label: "Focus", value: "Web Applications" },
               { label: "Status", value: "Open to Work" },
             ].map((item) => (
