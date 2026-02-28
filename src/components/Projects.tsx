@@ -3,6 +3,12 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
+    title: "Study Drip",
+    description: "Next-gen academic blog for grad study abroad. Dev-built site with global uni guides research flex.",
+    tech: ["TypeScript", "React", "Tailwind CSS", "Shadcn-ui"],
+    github: "https://github.com/zubairkorai/studydrip",
+  },
+  {
     title: "Job Portal",
     description: "A comprehensive job portal application with user authentication, job listings, applications, and admin management.",
     tech: ["Laravel", "MySQL", "PHP", "Bootstrap"],
